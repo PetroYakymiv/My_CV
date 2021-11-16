@@ -3,17 +3,6 @@ body {
     background-color: #f5f7fa;
 }
 
-/* monitors and laptops */
-@media (min-width: 1240px)  {}
-
-/* tablet */
-@media (min-width: 1024px) and (max-width: 1240px)  {}
-
-@media (min-width: 768px) and (max-width: 1024px) {}
-
-/* mobile */
-@media (max-width: 768px) {}
-
 /* main style */
 .main {
     display: flex;
